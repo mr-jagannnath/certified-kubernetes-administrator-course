@@ -1,2 +1,4 @@
 #!/bin/bash
 echo "my first push"
+API-Token="Dummy-Token-123-mYT.oKen"
+API-User="Dummy"
